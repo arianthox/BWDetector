@@ -39,3 +39,6 @@ build/
 # eclipse
 .project
 .classpath
+
+# IDE/output folders
+bin/
